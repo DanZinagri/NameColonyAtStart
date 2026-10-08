@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NCAS_NameColonyTip>Name colony\n\nName your faction and first settlement now, instead of waiting for the prompt a few days into the game.\n\nLeave a name blank and the game will ask for it at the usual time.</NCAS_NameColonyTip>
+	<NCAS_DialogTitle>Name your colony</NCAS_DialogTitle>
+	<NCAS_FactionLabel>Faction name:</NCAS_FactionLabel>
+	<NCAS_SettlementLabel>Settlement name:</NCAS_SettlementLabel>
+	<NCAS_BlankHint>Leave blank to be asked in-game as usual.</NCAS_BlankHint>
+</LanguageData>

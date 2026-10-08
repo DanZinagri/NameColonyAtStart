@@ -1,0 +1,5 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\NameColonyAtStart\1.6\Assemblies\NameColonyAtStart.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\NameColonyAtStart\Source\obj\Release\NameColonyAtStart.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\NameColonyAtStart\Source\obj\Release\NameColonyAtStart.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\NameColonyAtStart\Source\obj\Release\NameColonyAtStart.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\NameColonyAtStart\Source\obj\Release\NameColonyAtStart.dll

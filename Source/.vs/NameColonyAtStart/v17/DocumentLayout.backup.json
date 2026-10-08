@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\namecolonyatstart\\source\\pendingcolonynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|solutionrelative:pendingcolonynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\namecolonyatstart\\source\\patch_configurestartingpawns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|solutionrelative:patch_configurestartingpawns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\namecolonyatstart\\source\\namecolonyatstartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|solutionrelative:namecolonyatstartmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\namecolonyatstart\\source\\gamecomponent_applycolonynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|solutionrelative:gamecomponent_applycolonynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\namecolonyatstart\\source\\dialog_namecolonyatstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1050AA-E992-CDBA-978C-8D0FAFA75F07}|NameColonyAtStart.csproj|solutionrelative:dialog_namecolonyatstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PendingColonyNames.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\PendingColonyNames.cs",
+              "RelativeDocumentMoniker": "PendingColonyNames.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\PendingColonyNames.cs",
+              "RelativeToolTip": "PendingColonyNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:59:34.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_ConfigureStartingPawns.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\Patch_ConfigureStartingPawns.cs",
+              "RelativeDocumentMoniker": "Patch_ConfigureStartingPawns.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\Patch_ConfigureStartingPawns.cs",
+              "RelativeToolTip": "Patch_ConfigureStartingPawns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:59:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameColonyAtStartMod.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\NameColonyAtStartMod.cs",
+              "RelativeDocumentMoniker": "NameColonyAtStartMod.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\NameColonyAtStartMod.cs",
+              "RelativeToolTip": "NameColonyAtStartMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:59:32.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameComponent_ApplyColonyNames.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\GameComponent_ApplyColonyNames.cs",
+              "RelativeDocumentMoniker": "GameComponent_ApplyColonyNames.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\GameComponent_ApplyColonyNames.cs",
+              "RelativeToolTip": "GameComponent_ApplyColonyNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:59:32.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dialog_NameColonyAtStart.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\Dialog_NameColonyAtStart.cs",
+              "RelativeDocumentMoniker": "Dialog_NameColonyAtStart.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\NameColonyAtStart\\Source\\Dialog_NameColonyAtStart.cs",
+              "RelativeToolTip": "Dialog_NameColonyAtStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:59:30.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
