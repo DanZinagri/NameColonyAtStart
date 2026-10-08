@@ -6,11 +6,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<packageId>DanZinagri.NameColonyAtStart</packageId>
-	<modVersion>1.0</modVersion>
 	<description>Adds a "Name colony" button to the starting-pawn screen so you can name your faction and first settlement before the game begins, instead of waiting for the naming prompt a few days in.
-
-Either name can be left blank, and the game will ask for that one at the usual time. In permadeath, the save file is named after your faction straight away.
-
 Safe to add to or remove from an existing save: the names are applied once when a new game starts, and nothing is stored in the save.</description>
 	<modDependencies>
 		<li>
