@@ -29,9 +29,11 @@ namespace NameColonyAtStart
             closeOnClickedOutside = false;
             closeOnAccept = false;
 
+            // Start blank rather than pre-generated, so nothing has to be cleared to keep the
+            // vanilla prompt; Randomize is there for anyone who wants a suggestion.
             PendingColonyNames pending = PendingColonyNames.Peek();
-            factionName = pending?.factionName ?? GenerateFactionName();
-            settlementName = pending?.settlementName ?? GenerateSettlementName();
+            factionName = pending?.factionName ?? "";
+            settlementName = pending?.settlementName ?? "";
         }
 
         public override void DoWindowContents(Rect inRect)
